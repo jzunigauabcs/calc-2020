@@ -1,1 +1,1 @@
-# Práctica calculador
+# Práctica calculadora
